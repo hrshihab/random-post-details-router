@@ -1,0 +1,9 @@
+.post{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 10px;
+}
+.btn{
+justify-content: center; 
+text-decoration: none;
+}
